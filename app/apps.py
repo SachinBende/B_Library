@@ -10,6 +10,6 @@ class AppConfig(AppConfig):
 # b = 20
 # print(a+b)
 
-# c = 20
-# d = 30
-# print(c+d)
+c = 30
+d = 20
+print(c-d)
