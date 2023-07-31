@@ -6,6 +6,10 @@ class AppConfig(AppConfig):
     name = 'app'
 
 
-a = 10
-b = 20
-print(a+b)
+# a = 10
+# b = 20
+# print(a+b)
+
+# c = 20
+# d = 30
+# print(c+d)
