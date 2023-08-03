@@ -13,3 +13,6 @@ class AppConfig(AppConfig):
 c = 30
 d = 20
 print(c-d)
+
+print("add")
+print("**")
